@@ -21,6 +21,8 @@ permalink: /team
 
 ### Jordan Amadio, Co-Founter, CEO
 
+![Jordan Amadio](../assets/jordan_amadio.png)
+
 Dr. Amadio was educated at Princeton University, where he received an honors
 degree in Physics/Biophysics, followed by Harvard Medical School and the
 Massachusetts Institute of Technology, where he received his M.D. degree through
@@ -44,6 +46,8 @@ toward brain-computer interface technology.
 ---
 
 ### Arjun Menta
+
+![Arjun Menta](../assets/arjun_menta.png)
 
 AAAAAAAAAA
 
