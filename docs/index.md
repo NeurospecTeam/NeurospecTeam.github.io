@@ -10,4 +10,4 @@ layout: home
 {: style="color:black; font-family: 'Roboto Mono'; font-size: 210%; text-align: center;"}
 **Bringing EVD management into the 21st century.**
 
-![Ventrisense](assets/ventrisense.png)
+![EVD](assets/evd.png)
