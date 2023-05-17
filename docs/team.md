@@ -13,13 +13,22 @@ permalink: /team
     - [Ryan Benavides, Mechanical Engineering Lead](#ryan-benavides-mechanical-engineering-lead)
     - [Matthew Yu, Electrical and Software Engineering Lead](#matthew-yu-electrical-and-software-engineering-lead)
 
+---
 
 # Our Team
 
 > Insert headshots of team members
 
+![Ryan Benavides](../assets/Ryan-220x300.png)
+
+Ryan Benavides, Mechanical Engineering Lead
+
+
+---
 
 ## Leadership
+
+---
 
 ### Jordan Amadio, Co-Founter, CEO
 
