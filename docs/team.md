@@ -1,6 +1,8 @@
+---
 layout: page
 title: Meet the Team
 permalink: /team
+---
 
 > Intro paragraph on team contributions
 
