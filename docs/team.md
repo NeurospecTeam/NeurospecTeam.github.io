@@ -6,23 +6,12 @@ permalink: /team
 
 > Intro paragraph on team contributions
 
-- [Our Team](#our-team)
-  - [Leadership](#leadership)
-    - [Jordan Amadio, Co-Founter, CEO](#jordan-amadio-co-founter-ceo)
-    - [Arjun Menta](#arjun-menta)
-    - [Ryan Benavides, Mechanical Engineering Lead](#ryan-benavides-mechanical-engineering-lead)
-    - [Matthew Yu, Electrical and Software Engineering Lead](#matthew-yu-electrical-and-software-engineering-lead)
-
----
-
-# Our Team
-
-> Insert headshots of team members
-
-![Ryan Benavides](../assets/Ryan-220x300.png)
-
-Ryan Benavides, Mechanical Engineering Lead
-
+- [Leadership](#leadership)
+  - [Jordan Amadio, Co-Founter, CEO](#jordan-amadio-co-founter-ceo)
+  - [Arjun Menta](#arjun-menta)
+  - [Ryan Benavides, Mechanical Engineering Lead](#ryan-benavides-mechanical-engineering-lead)
+  - [Matthew Yu, Electrical and Software Engineering Lead](#matthew-yu-electrical-and-software-engineering-lead)
+- [The Rest of Our Team](#the-rest-of-our-team)
 
 ---
 
@@ -52,13 +41,28 @@ on several advisory boards. He also holds a part-time staff role at a
 venture-backed medical device company that is deploying $363 million in funding
 toward brain-computer interface technology.
 
+---
+
 ### Arjun Menta
 
 AAAAAAAAAA
 
+---
+
 ### Ryan Benavides, Mechanical Engineering Lead
 
-AAAAAAAAAAAA
+![Ryan Benavides](../assets/Ryan-220x300.png)
+
+Ryan was educated at The University of Texas at Austin, where he secured a
+Bachelor of Science in Mechanical Engineering. He is presently advancing his
+studies at the California Institute of Technology, working towards a Ph.D. in
+Materials Science. Recognized as a 2023 GEM Fellow, Ryan holds multiple patents
+spanning the fields of chemical engineering and medical device technology. His
+deep familiarity with theoretical materials science and experience with optical
+metamaterials has proven to be pivotal in driving innovation of Ventrisense
+device design.
+
+---
 
 ### Matthew Yu, Electrical and Software Engineering Lead
 
@@ -73,3 +77,9 @@ Apple, Qualcomm, Cisco Systems, Relativity Space, and Apptronik. He has also led
 and does lead several organizational teams, from the power generation team at
 Longhorn Racing Solar, to several robotics committees at IEEE Robotics and
 Automation Society.
+
+---
+
+## The Rest of Our Team
+
+> Insert headshots of other team members
