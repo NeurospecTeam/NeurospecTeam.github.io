@@ -33,6 +33,17 @@ deadly infection with >30% mortality. Conversely, weaning too early can lead to
 re-implantation of the drain and increased ICU length of stay, with its
 attendant costs and risks.
 
-![EVD Management With Ventrisense](./assets/evd_management_w_ventrisense.jpg)
+**Ventrisense seeks to bring EVD management into the 21st century by using
+real-time passive data collection to transform a subjective “art” into a
+quantitative science. Our device will non-invasively monitor exudate composition
+and flow with optical technology in high time-resolution, thereby providing
+sophisticated quantitative measures to guide clinical decisions. Ultimately,
+this enables simultaneous drainage and pressure estimation in real-time, at no
+additional risk to patients.**
 
-**Ventrisense seeks to bring EVD management into the 21st century by using real-time passive data collection to transform a subjective “art” into a quantitative science. Our device will non-invasively monitor exudate composition and flow with optical technology in high time-resolution, thereby providing sophisticated quantitative measures to guide clinical decisions. Ultimately, this enables simultaneous drainage and pressure estimation in real-time, at no additional risk to patients.**
+<div style="margin:auto;position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/qfEjOhstPNj?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/qfEjOhstPNj/embed" width="640" height="360"></iframe>
+          </div>
