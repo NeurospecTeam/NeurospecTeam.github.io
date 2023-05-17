@@ -21,8 +21,9 @@
 title: Ventrisense
 email: amadio@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    Ventrisense is an early stage startup commercializing medical devices that
-    can save patient lives and reduce the burden on medical staff.
+    Ventrisense is an early-stage startup designing and commercializing medical
+    devices that can improve patient outcomes while also lessening the burden of
+    labor for clinical staff.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -33,6 +34,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.

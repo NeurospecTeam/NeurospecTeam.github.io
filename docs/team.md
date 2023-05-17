@@ -4,24 +4,22 @@ title: Meet the Team
 permalink: /team
 ---
 
-> Intro paragraph on team contributions
+> Ventrisense is committed to fostering an inclusive and equitable startup
+> environment that champions diversity in both background and skillset. Team
+> members bring professional experience in areas ranging from advanced circuit
+> design up to invasive neurosurgery.
 
-- [Leadership](#leadership)
-  - [Jordan Amadio, Co-Founter, CEO](#jordan-amadio-co-founter-ceo)
-  - [Arjun Menta](#arjun-menta)
-  - [Ryan Benavides, Mechanical Engineering Lead](#ryan-benavides-mechanical-engineering-lead)
-  - [Matthew Yu, Electrical and Software Engineering Lead](#matthew-yu-electrical-and-software-engineering-lead)
-- [The Rest of Our Team](#the-rest-of-our-team)
+<br>
 
----
+## Jordan Amadio
 
-## Leadership
+### Co-Founder, CEO
 
----
+amadio (at) gmail (dot) com
 
-### Jordan Amadio, Co-Founter, CEO
-
-![Jordan Amadio](../assets/jordan_amadio.png)
+<img class="img" style="height: 300px; display: block; margin-left: auto;
+margin-right: auto; width: 30%; object-fit: cover;" src="./assets/jordan_amadio.png" alt="Jordan
+Amadio">
 
 Dr. Amadio was educated at Princeton University, where he received an honors
 degree in Physics/Biophysics, followed by Harvard Medical School and the
@@ -45,17 +43,43 @@ toward brain-computer interface technology.
 
 ---
 
-### Arjun Menta
+## Arjun Menta
 
-![Arjun Menta](../assets/arjun_menta.png)
+### Co-Founder, Scientist
 
-AAAAAAAAAA
+arjunkmenta (at) gmail (dot) com
+
+<img class="img" style="height: 300px; display: block; margin-left: auto;
+margin-right: auto; width: 30%; object-fit: cover;" src="./assets/arjun_menta.png" alt="Arjun
+Menta">
+
+Arjun Menta is an M.D. candidate at the Johns Hopkins University School of
+Medicine and a PD Soros Fellow. Staying in Texas for his undergraduate tenure,
+Arjun graduated with highest honors from The University of Texas at Austin with
+a bachelor’s of business administration in business honors and a bachelor’s of
+science & arts in biochemistry.
+
+Arjun has been heavily involved in technology, research, and entrepreneurship,
+with notable previous experience involving building a novel portable cooling
+system to expand vaccine access, deploying machine learning & soft robotics to
+solve problems in precision agriculture, developing an early-onset diagnostic
+biosensor for cancer detection, engineering spectroscopic systems for NASA
+JPL-affliated projects, and advancing our scientific understanding surrounding
+neurological injury and autoregulation. Drawing from his diverse academic
+background, and his entrepreneurial experience, he brings a unique perspective
+to the project, guiding the team's efforts to advance the technology and its
+applications.
 
 ---
 
-### Ryan Benavides, Mechanical Engineering Lead
+## Ryan Benavides
 
-![Ryan Benavides](../assets/Ryan-220x300.png)
+### Co-Founder, Mechanical Engineer
+
+ryanbenavides43 (at) gmail (dot) com
+
+<img class="img" style="height: 300px; display: block; margin-left: auto;
+margin-right: auto; width: 30%; object-fit: cover;" src="./assets/ryan_benavides.png" alt="Ryan Benavides">
 
 Ryan was educated at The University of Texas at Austin, where he secured a
 Bachelor of Science in Mechanical Engineering. He is presently advancing his
@@ -68,9 +92,17 @@ device design.
 
 ---
 
-### Matthew Yu, Electrical and Software Engineering Lead
+## Matthew Yu
 
-Matthew Yu B.S. is a current Masters student studying Electrical and Computer
+### Co-Founder, Electrical and Software Engineer
+
+matthewjkyu (at) gmail (dot) com
+
+<img class="img" style="height: 300px; display: block; margin-left: auto;
+margin-right: auto; width: 30%; object-fit: cover;" src="./assets/matthew_yu.png" alt="Matthew
+Yu">
+
+Matthew Yu is a current Masters student studying Electrical and Computer
 Engineering at the University of Texas at Austin. He has previously received his
 Bachelors of Science in ECE in 2021. His technical focus is on embedded systems
 development, with supplemental work in power systems and data science and their
@@ -86,4 +118,9 @@ Automation Society.
 
 ## The Rest of Our Team
 
-> Insert headshots of other team members
+- Sruja Arya
+- Pranav Rama
+- Logan Muzyka
+- Karthik Venkudusamy
+
+<!-- Get cards from IEEE RAS -->

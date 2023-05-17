@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![Ventrisense](assets/ventrisense.png)
