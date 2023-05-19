@@ -9,7 +9,3 @@ Ventrisense is committed to fostering an inclusive and equitable startup
 environment that champions diversity in both background and skillset. Team
 members bring professional experience in areas ranging from advanced circuit
 design up to invasive neurosurgery.
-
-<br>
-
-For more information, contact amadio (at) gmail (dot) com.
